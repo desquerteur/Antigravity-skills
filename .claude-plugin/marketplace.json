@@ -1,0 +1,31 @@
+{
+  "name": "antigravity-skills",
+  "description": "A focused Claude Code router for the Antigravity skill library.",
+  "owner": {
+    "name": "EpicNori"
+  },
+  "plugins": [
+    {
+      "name": "antigravity-skills",
+      "source": "./",
+      "version": "1.0.0",
+      "description": "Finds and applies the most relevant Antigravity skills for each substantive software task without loading the full catalog into context.",
+      "skills": [
+        "./claude-code-skill-router"
+      ],
+      "hooks": {
+        "SessionStart": [
+          {
+            "matcher": "",
+            "hooks": [
+              {
+                "type": "command",
+                "command": "printf '%s\\n' 'Antigravity Skills is available. Before any substantive software-engineering task, invoke /antigravity-skills:skill-router so it can select and load the most relevant bundled skills. Skip this only for greetings, simple factual questions, and tasks unrelated to software work.'"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

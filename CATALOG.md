@@ -1,12 +1,12 @@
 # Skill catalog
 
-454 skills. Reviewed on 2026-10-14.
+455 skills. Reviewed on 2026-10-24.
 
 Import review is static; runtime tools, credentials, and platform requirements still apply.
 
 | Category | Skills |
 | --- | ---: |
-| [ai-agents](#ai-agents) | 52 |
+| [ai-agents](#ai-agents) | 53 |
 | [backend-architecture](#backend-architecture) | 26 |
 | [data-documents](#data-documents) | 30 |
 | [desktop-systems](#desktop-systems) | 26 |
@@ -25,6 +25,7 @@ Import review is static; runtime tools, credentials, and platform requirements s
 
 | Skill | Purpose | Source / license |
 | --- | --- | --- |
+| [skill-router](claude-code-skill-router/SKILL.md) | Automatically find and apply the best matching skills from the bundled Antigravity catalog before substantive software engineering work in Claude Code. | Existing library; Claude Code integration |
 | [agent-architecture](skills/ai-agents/agent-architecture/SKILL.md) | Design AI agent architectures through requirements discovery, or audit and diagnose architectural flaws in existing agents. Architecture only; excludes implementation and general code review. | [github/awesome-copilot](https://github.com/github/awesome-copilot/tree/f25421d3f1b8b3bb217f78a7c0567cf7ec117cd8/skills/agent-architecture) / MIT |
 | [agent-architecture-audit](skills/ai-agents/agent-architecture-audit/SKILL.md) | Full-stack diagnostic for agent and LLM applications. Audits the 12-layer agent stack for wrapper regression, memory pollution, tool discipline failures, hidden repair loops, and rendering corruption. Produces severity-ranked findings... | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code/tree/b92f181b3b748d1abbc2afd94af6aa7d8c8fca29/skills/agent-architecture-audit) / MIT |
 | [agent-eval](skills/ai-agents/agent-eval/SKILL.md) | Head-to-head comparison of coding agents (Claude Code, Aider, Codex, etc.) on custom tasks with pass rate, cost, time, and consistency metrics. Use when choosing between coding agents, or when a change to an agent setup needs measured... | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code/tree/b92f181b3b748d1abbc2afd94af6aa7d8c8fca29/skills/agent-eval) / MIT |
