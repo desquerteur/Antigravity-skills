@@ -1,0 +1,45 @@
+{
+  "repository": "MengTo/Skills",
+  "commit": "3ec2dc0857d36e45d032d10063f62f2c773329a3",
+  "path": "agent-skills/video-editing/making-of-film/SKILL.md",
+  "url": "https://github.com/MengTo/Skills/tree/3ec2dc0857d36e45d032d10063f62f2c773329a3/agent-skills/video-editing/making-of-film",
+  "license": "MIT",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "ffc81b502e63d73bfaf463d2406180683e8a759e5f2dac7742eda169d343f749",
+  "changes": [
+    "Markdown files only; scripts and binary assets omitted per library rule",
+    "Added license: MIT to frontmatter"
+  ],
+  "omitted_files": [
+    "assets/starter/film.css",
+    "assets/starter/film.html",
+    "assets/starter/film.js",
+    "assets/starter/fonts/Geist-Variable.woff2",
+    "assets/starter/fonts/GeistMono-Variable.woff2",
+    "assets/starter/fonts/GeistSerifVF.woff2",
+    "assets/starter/script.txt",
+    "assets/starter/words.js",
+    "assets/starter/words.json",
+    "assets/twin.js",
+    "scripts/__pycache__/align-voice.cpython-314.pyc",
+    "scripts/__pycache__/judge-pack.cpython-314.pyc",
+    "scripts/__pycache__/realign-phrases.cpython-314.pyc",
+    "scripts/align-voice.py",
+    "scripts/explainer.css",
+    "scripts/explainer.js",
+    "scripts/film-facts.mjs",
+    "scripts/fix-onsets.mjs",
+    "scripts/judge-pack.py",
+    "scripts/locked.sh",
+    "scripts/motion.js",
+    "scripts/preview.sh",
+    "scripts/realign-phrases.py",
+    "scripts/rects.mjs",
+    "scripts/render-scenes.sh",
+    "scripts/render.mjs",
+    "scripts/sync-check.mjs",
+    "scripts/voice-edit.mjs"
+  ]
+}

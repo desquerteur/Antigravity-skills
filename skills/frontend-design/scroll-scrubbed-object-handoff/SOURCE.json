@@ -1,0 +1,46 @@
+{
+  "repository": "MengTo/Skills",
+  "commit": "3ec2dc0857d36e45d032d10063f62f2c773329a3",
+  "path": "agent-skills/web-design/scroll-scrubbed-object-handoff/SKILL.md",
+  "url": "https://github.com/MengTo/Skills/tree/3ec2dc0857d36e45d032d10063f62f2c773329a3/agent-skills/web-design/scroll-scrubbed-object-handoff",
+  "license": "MIT",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "2356340fef1e0c1aa070009a722f0e3c7f6fe43efafb992c7c14f84fff8be235",
+  "changes": [
+    "Markdown files only; scripts and binary assets omitted per library rule",
+    "Added license: MIT to frontmatter"
+  ],
+  "omitted_files": [
+    "agents/openai.yaml",
+    "demo/assets/Font-LICENSE.txt",
+    "demo/assets/Three-LICENSE.txt",
+    "demo/assets/behavior.js",
+    "demo/assets/broken-rule.png",
+    "demo/assets/commission-engraving.webp",
+    "demo/assets/depth-studio-token.webp",
+    "demo/assets/geist-mono.woff2",
+    "demo/assets/geist-sans.woff2",
+    "demo/assets/geist-serif.woff2",
+    "demo/assets/hand-clockwork-bleed.webp",
+    "demo/assets/hand-porcelain-bleed.webp",
+    "demo/assets/handoff-human-bleed.webp",
+    "demo/assets/handoff-pouch.webp",
+    "demo/assets/handoff-robot-bleed.webp",
+    "demo/assets/ledger-screen.png",
+    "demo/assets/normal-studio-token.webp",
+    "demo/assets/paper-grain.png",
+    "demo/assets/roughness-studio-token.webp",
+    "demo/assets/services-figure.webp",
+    "demo/assets/studio-note.png",
+    "demo/assets/studio-token.webp",
+    "demo/assets/style.css",
+    "demo/index.html",
+    "demo/preview.jpg",
+    "references/coin-light.js",
+    "references/engraving.js",
+    "references/handoff.js",
+    "references/paint-shader.js"
+  ]
+}

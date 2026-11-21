@@ -1,0 +1,20 @@
+{
+  "repository": "MengTo/Skills",
+  "commit": "3ec2dc0857d36e45d032d10063f62f2c773329a3",
+  "path": "agent-skills/web-design/fire-paper-loader/SKILL.md",
+  "url": "https://github.com/MengTo/Skills/tree/3ec2dc0857d36e45d032d10063f62f2c773329a3/agent-skills/web-design/fire-paper-loader",
+  "license": "MIT",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "d12033cd7ccdf359a41bf932d86e1d40eed475619046b532bf1e75452b8c3b3a",
+  "changes": [
+    "Markdown files only; scripts and binary assets omitted per library rule",
+    "Added license: MIT to frontmatter"
+  ],
+  "omitted_files": [
+    "agents/openai.yaml",
+    "demo.html",
+    "preview.jpg"
+  ]
+}

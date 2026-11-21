@@ -1,0 +1,41 @@
+{
+  "repository": "MengTo/Skills",
+  "commit": "3ec2dc0857d36e45d032d10063f62f2c773329a3",
+  "path": "agent-skills/media/html-reel/SKILL.md",
+  "url": "https://github.com/MengTo/Skills/tree/3ec2dc0857d36e45d032d10063f62f2c773329a3/agent-skills/media/html-reel",
+  "license": "MIT",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "020f618c53e8ee6d0c7c3f913d2cdcbb93a345e75dfb85e17c13af7eb5aff4a0",
+  "changes": [
+    "Markdown files only; scripts and binary assets omitted per library rule",
+    "Added license: MIT to frontmatter"
+  ],
+  "omitted_files": [
+    "agents/openai.yaml",
+    "demo/index.html",
+    "demo/preview.jpg",
+    "scripts/bubble.mjs",
+    "scripts/choreo-example.mjs",
+    "scripts/cursors/grab.png",
+    "scripts/cursors/open.png",
+    "scripts/decursor.py",
+    "scripts/fil-words.py",
+    "scripts/flash-crop.mjs",
+    "scripts/frame-video.mjs",
+    "scripts/join-takes.py",
+    "scripts/named-times.py",
+    "scripts/preview-reel.mjs",
+    "scripts/read-source.mjs",
+    "scripts/record-window.mjs",
+    "scripts/reel-clock.css",
+    "scripts/reel-clock.js",
+    "scripts/render-frames.mjs",
+    "scripts/split-flip.mjs",
+    "scripts/tighten-voice.py",
+    "scripts/timemap.py",
+    "scripts/verify-export.mjs",
+    "scripts/vo-words.py"
+  ]
+}

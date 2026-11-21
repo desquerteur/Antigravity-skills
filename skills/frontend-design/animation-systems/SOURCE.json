@@ -1,0 +1,19 @@
+{
+  "repository": "MengTo/Skills",
+  "commit": "3ec2dc0857d36e45d032d10063f62f2c773329a3",
+  "path": "agent-skills/web-design/animation-systems/SKILL.md",
+  "url": "https://github.com/MengTo/Skills/tree/3ec2dc0857d36e45d032d10063f62f2c773329a3/agent-skills/web-design/animation-systems",
+  "license": "MIT",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "628bfc1d93fd17c1e3bcb16d74e1dcb48a0790980001cf2e153a6a80e6018c71",
+  "changes": [
+    "Markdown files only; scripts and binary assets omitted per library rule",
+    "Added license: MIT to frontmatter"
+  ],
+  "omitted_files": [
+    "demo/index.html",
+    "demo/preview.jpg"
+  ]
+}

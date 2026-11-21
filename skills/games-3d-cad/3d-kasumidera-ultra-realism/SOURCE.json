@@ -1,0 +1,26 @@
+{
+  "repository": "MengTo/Skills",
+  "commit": "3ec2dc0857d36e45d032d10063f62f2c773329a3",
+  "path": "agent-skills/3d/3d-kasumidera-ultra-realism/SKILL.md",
+  "url": "https://github.com/MengTo/Skills/tree/3ec2dc0857d36e45d032d10063f62f2c773329a3/agent-skills/3d/3d-kasumidera-ultra-realism",
+  "license": "MIT",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "d502f0bbdd39b91772b019e00710049231f43ed9275520f65a821df82c1bff74",
+  "changes": [
+    "Markdown files only; scripts and binary assets omitted per library rule",
+    "Added license: MIT to frontmatter"
+  ],
+  "omitted_files": [
+    "agents/openai.yaml",
+    "demo/assets/bridge.jpg",
+    "demo/assets/cliff.jpg",
+    "demo/assets/cloud.jpg",
+    "demo/assets/eaves.jpg",
+    "demo/assets/gate.jpg",
+    "demo/assets/journal.jpg",
+    "demo/index.html",
+    "demo/preview.jpg"
+  ]
+}

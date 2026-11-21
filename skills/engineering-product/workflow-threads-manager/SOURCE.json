@@ -1,0 +1,22 @@
+{
+  "repository": "MengTo/Skills",
+  "commit": "3ec2dc0857d36e45d032d10063f62f2c773329a3",
+  "path": "agent-skills/workflow/workflow-threads-manager/SKILL.md",
+  "url": "https://github.com/MengTo/Skills/tree/3ec2dc0857d36e45d032d10063f62f2c773329a3/agent-skills/workflow/workflow-threads-manager",
+  "license": "MIT",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "38c9747ea323984815bc275bb632be7c94a499405b1495cec417ef15eb121497",
+  "changes": [
+    "Markdown files only; scripts and binary assets omitted per library rule",
+    "Added license: MIT to frontmatter"
+  ],
+  "omitted_files": [
+    "scripts/audit-changelog.py",
+    "scripts/contact-sheet.py",
+    "scripts/live-check.sh",
+    "scripts/repo-status.sh",
+    "scripts/save-captures.sh"
+  ]
+}

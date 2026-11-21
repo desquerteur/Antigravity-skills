@@ -1,0 +1,22 @@
+{
+  "repository": "MengTo/Skills",
+  "commit": "3ec2dc0857d36e45d032d10063f62f2c773329a3",
+  "path": "agent-skills/game-development/build-lens-raindrops/SKILL.md",
+  "url": "https://github.com/MengTo/Skills/tree/3ec2dc0857d36e45d032d10063f62f2c773329a3/agent-skills/game-development/build-lens-raindrops",
+  "license": "MIT",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "3b42f4203e71e18dfd577a5405c35ce8083d6a413bb6b638d64ae6f48e2621cc",
+  "changes": [
+    "Markdown files only; scripts and binary assets omitted per library rule",
+    "Added license: MIT to frontmatter"
+  ],
+  "omitted_files": [
+    "agents/openai.yaml",
+    "assets/demo.jpg",
+    "assets/demo.mp4",
+    "assets/drop-field.frag",
+    "assets/refract.frag"
+  ]
+}

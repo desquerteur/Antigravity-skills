@@ -1,0 +1,20 @@
+{
+  "repository": "MengTo/Skills",
+  "commit": "3ec2dc0857d36e45d032d10063f62f2c773329a3",
+  "path": "agent-skills/codex/write-like-meng-on-x/SKILL.md",
+  "url": "https://github.com/MengTo/Skills/tree/3ec2dc0857d36e45d032d10063f62f2c773329a3/agent-skills/codex/write-like-meng-on-x",
+  "license": "MIT",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "a69d5f88bbfb2e0ce457cbb31438809e24e008fdf3073b1bc4becdaf4e174485",
+  "changes": [
+    "Markdown files only; scripts and binary assets omitted per library rule",
+    "Added license: MIT to frontmatter"
+  ],
+  "omitted_files": [
+    "agents/openai.yaml",
+    "references/tweet-corpus.jsonl",
+    "scripts/update-tweet-corpus.mjs"
+  ]
+}

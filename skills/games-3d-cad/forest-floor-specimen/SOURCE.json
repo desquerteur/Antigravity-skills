@@ -1,0 +1,22 @@
+{
+  "repository": "MengTo/Skills",
+  "commit": "3ec2dc0857d36e45d032d10063f62f2c773329a3",
+  "path": "agent-skills/3d/forest-floor-specimen/SKILL.md",
+  "url": "https://github.com/MengTo/Skills/tree/3ec2dc0857d36e45d032d10063f62f2c773329a3/agent-skills/3d/forest-floor-specimen",
+  "license": "MIT",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "ded43a85117f7a0a357eda65370fcf11a14562d34e9f8c61da79a6758cc82de5",
+  "changes": [
+    "Markdown files only; scripts and binary assets omitted per library rule",
+    "Added license: MIT to frontmatter"
+  ],
+  "omitted_files": [
+    "agents/openai.yaml",
+    "demo/assets/THREE-LICENSE.txt",
+    "demo/assets/three.min.js",
+    "demo/index.html",
+    "demo/preview.jpg"
+  ]
+}

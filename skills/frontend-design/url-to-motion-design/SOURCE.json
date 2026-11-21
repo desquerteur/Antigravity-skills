@@ -1,0 +1,34 @@
+{
+  "repository": "MengTo/Skills",
+  "commit": "3ec2dc0857d36e45d032d10063f62f2c773329a3",
+  "path": "agent-skills/media/url-to-motion-design/SKILL.md",
+  "url": "https://github.com/MengTo/Skills/tree/3ec2dc0857d36e45d032d10063f62f2c773329a3/agent-skills/media/url-to-motion-design",
+  "license": "MIT",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "1c14d3f39307b7e9750fb7cfd83a49ceabd945cf3da51106105e1671239175f9",
+  "changes": [
+    "Markdown files only; scripts and binary assets omitted per library rule",
+    "Added license: MIT to frontmatter"
+  ],
+  "omitted_files": [
+    "agents/openai.yaml",
+    "lab/anchors/prompt-box-final.jpg",
+    "lab/anchors/prompt-box.jpg",
+    "lab/anchors/ruled-lines-final.jpg",
+    "lab/anchors/ruled-lines.jpg",
+    "lab/runner.html",
+    "lab/screening.html",
+    "lab/server.mjs",
+    "lab/template.html",
+    "scripts/__pycache__/panel.cpython-314.pyc",
+    "scripts/fetch-source.mjs",
+    "scripts/panel.py",
+    "scripts/publish-list.mjs",
+    "scripts/render.mjs",
+    "scripts/screening.mjs",
+    "scripts/shots.mjs",
+    "scripts/video.mjs"
+  ]
+}

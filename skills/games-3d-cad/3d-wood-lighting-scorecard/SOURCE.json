@@ -1,0 +1,23 @@
+{
+  "repository": "MengTo/Skills",
+  "commit": "3ec2dc0857d36e45d032d10063f62f2c773329a3",
+  "path": "agent-skills/3d/3d-wood-lighting-scorecard/SKILL.md",
+  "url": "https://github.com/MengTo/Skills/tree/3ec2dc0857d36e45d032d10063f62f2c773329a3/agent-skills/3d/3d-wood-lighting-scorecard",
+  "license": "MIT",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "2f0e53b236b252b1eea9c4ace9159c8c526bc69f3de40499055b4f436e8b1c9f",
+  "changes": [
+    "Markdown files only; scripts and binary assets omitted per library rule",
+    "Added license: MIT to frontmatter"
+  ],
+  "omitted_files": [
+    "agents/openai.yaml",
+    "demo.html",
+    "preview.jpg",
+    "references/last-scorecard.json",
+    "references/metrics.js",
+    "references/scorecard.mjs"
+  ]
+}

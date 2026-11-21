@@ -1,0 +1,29 @@
+{
+  "repository": "MengTo/Skills",
+  "commit": "3ec2dc0857d36e45d032d10063f62f2c773329a3",
+  "path": "agent-skills/illustration/illustration-isometric-mono/SKILL.md",
+  "url": "https://github.com/MengTo/Skills/tree/3ec2dc0857d36e45d032d10063f62f2c773329a3/agent-skills/illustration/illustration-isometric-mono",
+  "license": "MIT",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "73cb69db104560350cf75cf7d65a38a93cbe8af3aa5a2919ead9eaae39ae06bd",
+  "changes": [
+    "Markdown files only; scripts and binary assets omitted per library rule",
+    "Added license: MIT to frontmatter"
+  ],
+  "omitted_files": [
+    "agents/openai.yaml",
+    "demo/index.html",
+    "demo/preview.jpg",
+    "examples/ci-pipeline.svg",
+    "examples/design-studio.svg",
+    "examples/dev-stack.svg",
+    "scripts/dev-stack.gen.mjs",
+    "scripts/iso.mjs",
+    "scripts/lint.mjs",
+    "scripts/ramp-check.mjs",
+    "scripts/render.mjs",
+    "style.json"
+  ]
+}

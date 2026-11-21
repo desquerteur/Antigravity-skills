@@ -1,0 +1,21 @@
+{
+  "repository": "MengTo/Skills",
+  "commit": "3ec2dc0857d36e45d032d10063f62f2c773329a3",
+  "path": "agent-skills/game-development/build-3d-character-selector/SKILL.md",
+  "url": "https://github.com/MengTo/Skills/tree/3ec2dc0857d36e45d032d10063f62f2c773329a3/agent-skills/game-development/build-3d-character-selector",
+  "license": "MIT",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "97404433b1db4673622dff6e563773b9bc09c246ad98cb5e2a79176c630f2aa3",
+  "changes": [
+    "Markdown files only; scripts and binary assets omitted per library rule",
+    "Added license: MIT to frontmatter"
+  ],
+  "omitted_files": [
+    "agents/openai.yaml",
+    "assets/demo.jpg",
+    "assets/demo.mp4",
+    "assets/full-body-selector.jpg"
+  ]
+}

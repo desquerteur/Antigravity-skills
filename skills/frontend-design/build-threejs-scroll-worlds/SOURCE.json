@@ -1,0 +1,37 @@
+{
+  "repository": "MengTo/Skills",
+  "commit": "3ec2dc0857d36e45d032d10063f62f2c773329a3",
+  "path": "agent-skills/web-design/build-threejs-scroll-worlds/SKILL.md",
+  "url": "https://github.com/MengTo/Skills/tree/3ec2dc0857d36e45d032d10063f62f2c773329a3/agent-skills/web-design/build-threejs-scroll-worlds",
+  "license": "MIT",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "0af3ee649bb67ccf461261527b4aaff8842650e80169262a7b296a6168820fcb",
+  "changes": [
+    "Markdown files only; scripts and binary assets omitted per library rule",
+    "Added license: MIT to frontmatter"
+  ],
+  "omitted_files": [
+    "agents/openai.yaml",
+    "demo/index.html",
+    "demo/preview.jpg",
+    "demo/secret-pathways-assets/fonts.css",
+    "demo/secret-pathways-assets/foreground/png/basalt-stones.webp",
+    "demo/secret-pathways-assets/foreground/png/garden-bush.webp",
+    "demo/secret-pathways-assets/foreground/png/hill.webp",
+    "demo/secret-pathways-assets/foreground/png/maple-leaves.webp",
+    "demo/secret-pathways-assets/foreground/png/pine-tree.webp",
+    "demo/secret-pathways-assets/foreground/png/sakura-branch.webp",
+    "demo/secret-pathways-assets/foreground/png/shrine-ruins.webp",
+    "demo/secret-pathways-assets/foreground/png/stone-lantern.webp",
+    "demo/secret-pathways-assets/foreground/png/tall-grass.webp",
+    "demo/secret-pathways-assets/foreground/png/temple-wall.webp",
+    "demo/secret-pathways-assets/generated/kage-approach.webp",
+    "demo/secret-pathways-assets/generated/kage-lantern-court.webp",
+    "demo/secret-pathways-assets/generated/kage-moonwater.webp",
+    "demo/secret-pathways-assets/generated/kage-sanmon-preview.webp",
+    "demo/secret-pathways-assets/three.min.js",
+    "references/scroll-conductor.js"
+  ]
+}

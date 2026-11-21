@@ -1,0 +1,27 @@
+{
+  "repository": "MengTo/Skills",
+  "commit": "3ec2dc0857d36e45d032d10063f62f2c773329a3",
+  "path": "agent-skills/illustration/illustration-flat/SKILL.md",
+  "url": "https://github.com/MengTo/Skills/tree/3ec2dc0857d36e45d032d10063f62f2c773329a3/agent-skills/illustration/illustration-flat",
+  "license": "MIT",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "2a495c795baee0b49bc2b72633e61222eaa116013ac555ec379fe0d10c4ac294",
+  "changes": [
+    "Markdown files only; scripts and binary assets omitted per library rule",
+    "Added license: MIT to frontmatter"
+  ],
+  "omitted_files": [
+    "agents/openai.yaml",
+    "demo/index.html",
+    "demo/preview.jpg",
+    "examples/broken-link.svg",
+    "examples/coming-soon.svg",
+    "examples/fatal-error.svg",
+    "scripts/flat-kit.mjs",
+    "scripts/lint.mjs",
+    "scripts/render.mjs",
+    "style.json"
+  ]
+}

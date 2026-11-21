@@ -1,0 +1,23 @@
+{
+  "repository": "MengTo/Skills",
+  "commit": "3ec2dc0857d36e45d032d10063f62f2c773329a3",
+  "path": "agent-skills/web-design/reveal-hover-effect/SKILL.md",
+  "url": "https://github.com/MengTo/Skills/tree/3ec2dc0857d36e45d032d10063f62f2c773329a3/agent-skills/web-design/reveal-hover-effect",
+  "license": "MIT",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "b6aa45da3ac37c056371a4766bbe91bb7ca90993f6d4a67486460f7a07274b10",
+  "changes": [
+    "Markdown files only; scripts and binary assets omitted per library rule",
+    "Added license: MIT to frontmatter"
+  ],
+  "omitted_files": [
+    "agents/openai.yaml",
+    "demo/assets/hero-opal.webp",
+    "demo/assets/hero-plaster.webp",
+    "demo/index.html",
+    "demo/preview-feature.jpg",
+    "demo/preview.jpg"
+  ]
+}

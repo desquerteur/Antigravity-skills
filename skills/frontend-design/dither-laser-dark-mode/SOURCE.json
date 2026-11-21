@@ -1,0 +1,29 @@
+{
+  "repository": "MengTo/Skills",
+  "commit": "3ec2dc0857d36e45d032d10063f62f2c773329a3",
+  "path": "agent-skills/web-design/dither-laser-dark-mode/SKILL.md",
+  "url": "https://github.com/MengTo/Skills/tree/3ec2dc0857d36e45d032d10063f62f2c773329a3/agent-skills/web-design/dither-laser-dark-mode",
+  "license": "MIT",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "b29df1a3ebf45804ea4c81e17a16c8dee19117d5e8821d460e6c18613d39da21",
+  "changes": [
+    "Markdown files only; scripts and binary assets omitted per library rule",
+    "Added license: MIT to frontmatter"
+  ],
+  "omitted_files": [
+    "demo/assets/page-01-photo-1542224566-6e85f2e6772f.jpg",
+    "demo/assets/page-02-photo-1518732714860-b62714ce0c59.jpg",
+    "demo/assets/page-03-photo-1596394516093-501ba68a0ba6.jpg",
+    "demo/assets/page-04-photo-1587061949409-02df41d5e562.jpg",
+    "demo/assets/page-05-photo-1522708323590-d24dbb6b0267.jpg",
+    "demo/assets/page-06-photo-1464822759023-fed622ff2c3b.jpg",
+    "demo/assets/page-07-photo-1544161515-4ab6ce6db874.jpg",
+    "demo/assets/page-08-photo-1555396273-367ea4eb4db5.jpg",
+    "demo/assets/source-preview.jpg",
+    "demo/index.html",
+    "demo/preview.jpg",
+    "demo/source.json"
+  ]
+}

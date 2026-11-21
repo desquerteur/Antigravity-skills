@@ -1,0 +1,23 @@
+{
+  "repository": "MengTo/Skills",
+  "commit": "3ec2dc0857d36e45d032d10063f62f2c773329a3",
+  "path": "agent-skills/web-design/gsap/SKILL.md",
+  "url": "https://github.com/MengTo/Skills/tree/3ec2dc0857d36e45d032d10063f62f2c773329a3/agent-skills/web-design/gsap",
+  "license": "MIT",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "7a70139af20dfae9e35b14c3642836bc93cdfd5c07769266bb71221afbf01c12",
+  "changes": [
+    "Markdown files only; scripts and binary assets omitted per library rule",
+    "Added license: MIT to frontmatter"
+  ],
+  "omitted_files": [
+    "demo/assets/page-01-4f5668c5-fc4a-44e0-bc5e-a664189d3c31-800w.jpg",
+    "demo/assets/page-02-0d868fef-f560-45ca-ab35-5dad4fc29059-800w.webp",
+    "demo/assets/source-preview.jpg",
+    "demo/index.html",
+    "demo/preview.jpg",
+    "demo/source.json"
+  ]
+}

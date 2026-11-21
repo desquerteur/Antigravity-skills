@@ -1,0 +1,37 @@
+{
+  "repository": "MengTo/Skills",
+  "commit": "3ec2dc0857d36e45d032d10063f62f2c773329a3",
+  "path": "agent-skills/media/create-ai-avatar/SKILL.md",
+  "url": "https://github.com/MengTo/Skills/tree/3ec2dc0857d36e45d032d10063f62f2c773329a3/agent-skills/media/create-ai-avatar",
+  "license": "MIT",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "3abfe64aa25a9c67cb49e8850303458b576c10ae2ba761e3ceafa4b86b4a9c08",
+  "changes": [
+    "Markdown files only; scripts and binary assets omitted per library rule",
+    "Added license: MIT to frontmatter"
+  ],
+  "omitted_files": [
+    "agents/openai.yaml",
+    "demo/avatar-iii.mp4",
+    "demo/avatar-iii.webp",
+    "demo/avatar-iv.mp4",
+    "demo/avatar-iv.webp",
+    "demo/avatar-v.mp4",
+    "demo/avatar-v.webp",
+    "demo/index.html",
+    "demo/mouths.jpg",
+    "demo/preview.jpg",
+    "scripts/balance.mjs",
+    "scripts/consent.mjs",
+    "scripts/hear.mjs",
+    "scripts/keys.mjs",
+    "scripts/mouths.sh",
+    "scripts/prep-footage.sh",
+    "scripts/render.mjs",
+    "scripts/train.mjs",
+    "scripts/upload.mjs",
+    "scripts/voice.mjs"
+  ]
+}

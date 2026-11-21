@@ -1,0 +1,31 @@
+{
+  "repository": "MengTo/Skills",
+  "commit": "3ec2dc0857d36e45d032d10063f62f2c773329a3",
+  "path": "agent-skills/web-design/dither-ascii-ink-hover/SKILL.md",
+  "url": "https://github.com/MengTo/Skills/tree/3ec2dc0857d36e45d032d10063f62f2c773329a3/agent-skills/web-design/dither-ascii-ink-hover",
+  "license": "MIT",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "e5469b6355532934c24e135738fc86f6c9e3a3f440400402556191b11a53c830",
+  "changes": [
+    "Markdown files only; scripts and binary assets omitted per library rule",
+    "Added license: MIT to frontmatter"
+  ],
+  "omitted_files": [
+    "agents/openai.yaml",
+    "demo/assets/Font-LICENSE.txt",
+    "demo/assets/broken-rule.png",
+    "demo/assets/field-printer.webp",
+    "demo/assets/field-studio.webp",
+    "demo/assets/geist-mono.woff2",
+    "demo/assets/geist-sans.woff2",
+    "demo/assets/geist-serif.woff2",
+    "demo/assets/ledger-screen.png",
+    "demo/assets/paper-grain.png",
+    "demo/assets/studio-note.png",
+    "demo/assets/style.css",
+    "demo/index.html",
+    "demo/preview.jpg"
+  ]
+}

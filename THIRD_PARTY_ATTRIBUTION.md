@@ -81,3 +81,19 @@ The Qt packages use the BSD-3-Clause option. Per-package notices take precedence
 The Vercel README states MIT, but the selected package ancestry did not contain a complete license file; those packages were not copied pending notice verification. A mixed-license aggregator was not copied. One duplicate security-review skill was excluded.
 
 The prior root-level packages have not had their original licenses or missing non-Markdown dependencies reconstructed in this pass.
+
+## Imported From `MengTo/Skills`
+
+Source:
+- [MengTo/Skills](https://github.com/MengTo/Skills) by Meng To
+
+Repository snapshot:
+- Commit: `3ec2dc0857d36e45d032d10063f62f2c773329a3`
+- License: `MIT` (Copyright (c) 2026 Meng To; full text in each skill's `LICENSE.txt`)
+- Imported: `2026-11-21`
+
+Import notes:
+- 209 skills, markdown files only (`SKILL.md`, `REFERENCES.md`, `ARTICLE.md` and similar). Scripts and binary assets were omitted; each skill's `SOURCE.json` lists the omitted files.
+- Categories mapped: `ui`, `web-design`, `illustration`, `media`, `video-editing` -> `frontend-design`; `3d`, `game-development`, `game-combat` -> `games-3d-cad`; `codex` -> `ai-agents`; `workflow` -> `engineering-product`.
+- No name collisions with existing skills; no skill was overwritten.
+

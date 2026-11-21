@@ -1,0 +1,33 @@
+{
+  "repository": "MengTo/Skills",
+  "commit": "3ec2dc0857d36e45d032d10063f62f2c773329a3",
+  "path": "agent-skills/game-combat/water-crystal-skill-vfx/SKILL.md",
+  "url": "https://github.com/MengTo/Skills/tree/3ec2dc0857d36e45d032d10063f62f2c773329a3/agent-skills/game-combat/water-crystal-skill-vfx",
+  "license": "MIT",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "fdee3f3cd4aa5d2a0bba5c1781fd7ca639b0ce352e937265b0e720f076158c84",
+  "changes": [
+    "Markdown files only; scripts and binary assets omitted per library rule",
+    "Added license: MIT to frontmatter"
+  ],
+  "omitted_files": [
+    "agents/openai.yaml",
+    "assets/tide-crystal.mjs",
+    "demo/assets/ground/low_tide_rocks_arm_1k.jpg",
+    "demo/assets/ground/low_tide_rocks_diff_1k.jpg",
+    "demo/assets/ground/low_tide_rocks_nor_gl_1k.jpg",
+    "demo/assets/three.r170.min.js",
+    "demo/build.mjs",
+    "demo/index.html",
+    "demo/layout/cams.json",
+    "demo/layout/layout.bin",
+    "demo/layout/layout.py",
+    "demo/preview.jpg",
+    "demo/src/stage.js",
+    "demo/src/ui.css",
+    "demo/src/ui.html",
+    "demo/src/ui.js"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "repository": "MengTo/Skills",
+  "commit": "3ec2dc0857d36e45d032d10063f62f2c773329a3",
+  "path": "agent-skills/web-design/masked-reveal/SKILL.md",
+  "url": "https://github.com/MengTo/Skills/tree/3ec2dc0857d36e45d032d10063f62f2c773329a3/agent-skills/web-design/masked-reveal",
+  "license": "MIT",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "42fd8ab9f3659cbe2ba5782a4b79cbe9f69a9628778d63bb04e7117ffd332e8f",
+  "changes": [
+    "Markdown files only; scripts and binary assets omitted per library rule",
+    "Added license: MIT to frontmatter"
+  ],
+  "omitted_files": [
+    "demo/assets/page-01-65695f80-23f9-46ee-8487-cbb6c93cc48b-3840w.webp",
+    "demo/assets/page-02-724142aa-44a6-48d3-9cf3-761e00d05b78-1600w.jpg",
+    "demo/assets/page-03-4734259a-bad7-422f-981e-ce01e79184f2-1600w.jpg",
+    "demo/assets/page-04-005600e5-f6ab-4e59-bc86-eaeb02797dfa-1600w.jpg",
+    "demo/assets/page-05-e534354d-c5f2-4399-a1d9-2f50338e8c47-1600w.jpg",
+    "demo/assets/page-06-fb6415fd-bf4d-4ccf-8e9d-7ab445e99207-1600w.jpg",
+    "demo/assets/source-preview.jpg",
+    "demo/index.html",
+    "demo/preview.jpg",
+    "demo/source.json"
+  ]
+}

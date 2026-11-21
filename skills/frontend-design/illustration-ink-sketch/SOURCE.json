@@ -1,0 +1,27 @@
+{
+  "repository": "MengTo/Skills",
+  "commit": "3ec2dc0857d36e45d032d10063f62f2c773329a3",
+  "path": "agent-skills/illustration/illustration-ink-sketch/SKILL.md",
+  "url": "https://github.com/MengTo/Skills/tree/3ec2dc0857d36e45d032d10063f62f2c773329a3/agent-skills/illustration/illustration-ink-sketch",
+  "license": "MIT",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "e39f9d0cdfd82306e6a6877a65f2d21db21d4e998f9efc2099e5f751db2a6538",
+  "changes": [
+    "Markdown files only; scripts and binary assets omitted per library rule",
+    "Added license: MIT to frontmatter"
+  ],
+  "omitted_files": [
+    "agents/openai.yaml",
+    "demo/index.html",
+    "demo/preview.jpg",
+    "examples/hello-world.svg",
+    "examples/merge-conflict.svg",
+    "examples/slow-build.svg",
+    "scripts/ink-kit.mjs",
+    "scripts/lint.mjs",
+    "scripts/render.mjs",
+    "style.json"
+  ]
+}

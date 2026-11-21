@@ -1,0 +1,21 @@
+{
+  "repository": "MengTo/Skills",
+  "commit": "3ec2dc0857d36e45d032d10063f62f2c773329a3",
+  "path": "agent-skills/web-design/blue-cloudy-clean-modern/SKILL.md",
+  "url": "https://github.com/MengTo/Skills/tree/3ec2dc0857d36e45d032d10063f62f2c773329a3/agent-skills/web-design/blue-cloudy-clean-modern",
+  "license": "MIT",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "7c464a4e39f524344e798e1005350b22eecbc302f3ef0ce6367d1a94b43acca3",
+  "changes": [
+    "Markdown files only; scripts and binary assets omitted per library rule",
+    "Added license: MIT to frontmatter"
+  ],
+  "omitted_files": [
+    "demo/assets/source-preview.jpg",
+    "demo/index.html",
+    "demo/preview.jpg",
+    "demo/source.json"
+  ]
+}
