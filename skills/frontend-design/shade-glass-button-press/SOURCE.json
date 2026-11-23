@@ -1,0 +1,19 @@
+{
+  "repository": "MengTo/Skills",
+  "commit": "d5463ad2357e3e1c1480cc00e5b8fe49628a253c",
+  "path": "agent-skills/ui/shade-glass-button-press/SKILL.md",
+  "url": "https://github.com/MengTo/Skills/tree/d5463ad2357e3e1c1480cc00e5b8fe49628a253c/agent-skills/ui/shade-glass-button-press",
+  "license": "MIT",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "47a349df54d05bab79089344bef6c7becb8bcb5f0ad8833e894787eb15e17542",
+  "changes": [
+    "Markdown files only; scripts and binary assets omitted per library rule",
+    "Added license: MIT to frontmatter"
+  ],
+  "omitted_files": [
+    "demo/index.html",
+    "demo/preview.jpg"
+  ]
+}

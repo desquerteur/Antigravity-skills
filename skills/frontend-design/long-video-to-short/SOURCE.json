@@ -1,0 +1,28 @@
+{
+  "repository": "MengTo/Skills",
+  "commit": "d5463ad2357e3e1c1480cc00e5b8fe49628a253c",
+  "path": "agent-skills/video-editing/long-video-to-short/SKILL.md",
+  "url": "https://github.com/MengTo/Skills/tree/d5463ad2357e3e1c1480cc00e5b8fe49628a253c/agent-skills/video-editing/long-video-to-short",
+  "license": "MIT",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "da96a0c185c13c0f2a8d51edd41ad0218fc5d815f3e6f3687b5c05bdb4af586b",
+  "changes": [
+    "Markdown files only; scripts and binary assets omitted per library rule",
+    "Added license: MIT to frontmatter"
+  ],
+  "omitted_files": [
+    "references/plan-example.json",
+    "scripts/align_phrases.py",
+    "scripts/base.sh",
+    "scripts/build_voice.py",
+    "scripts/check_export.sh",
+    "scripts/export.py",
+    "scripts/plates.py",
+    "scripts/reel_draw.py",
+    "scripts/scenes.py",
+    "scripts/segdir.swift",
+    "scripts/sync_check.py"
+  ]
+}

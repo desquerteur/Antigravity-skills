@@ -1,6 +1,6 @@
 # Antigravity-skills
 
-**664 AI coding skills in 14 categories**, including 636 imported packages and 28 original skills. 209 design, 3D, game and agent-workflow skills come from [Meng To's MengTo/Skills](https://github.com/MengTo/Skills) (MIT).
+**672 AI coding skills in 14 categories**, including 644 imported packages and 28 original skills. 217 design, 3D, game and agent-workflow skills come from [Meng To's MengTo/Skills](https://github.com/MengTo/Skills) (MIT).
 
 Browse the [Markdown skill index](CATALOG.md) to find a skill.
 
@@ -20,7 +20,7 @@ Install the focused router as a Claude Code marketplace plugin:
 /plugin install antigravity-skills@antigravity-skills
 ```
 
-The plugin downloads this library once, then automatically routes substantive software tasks to the most relevant bundled skills. It exposes only the router to Claude Code and loads selected skill instructions on demand, avoiding the context cost and name collisions of registering all 664 skills at once.
+The plugin downloads this library once, then automatically routes substantive software tasks to the most relevant bundled skills. It exposes only the router to Claude Code and loads selected skill instructions on demand, avoiding the context cost and name collisions of registering all 672 skills at once.
 
 Third-party marketplaces do not auto-update by default. Open `/plugin`, select the `antigravity-skills` marketplace, and choose **Enable auto-update**. Claude Code will then refresh the marketplace after sessions start and apply updated plugin files on the next session or after `/reload-plugins`.
 

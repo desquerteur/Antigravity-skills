@@ -1,0 +1,25 @@
+{
+  "repository": "MengTo/Skills",
+  "commit": "d5463ad2357e3e1c1480cc00e5b8fe49628a253c",
+  "path": "agent-skills/3d/control-camera-lenses/SKILL.md",
+  "url": "https://github.com/MengTo/Skills/tree/d5463ad2357e3e1c1480cc00e5b8fe49628a253c/agent-skills/3d/control-camera-lenses",
+  "license": "MIT",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "a40023ca668b33d5339c165c874b5171bf450371386aa00be9c828906a38fb7d",
+  "changes": [
+    "Markdown files only; scripts and binary assets omitted per library rule",
+    "Added license: MIT to frontmatter"
+  ],
+  "omitted_files": [
+    "agents/openai.yaml",
+    "demo/assets/THREE-LICENSE.txt",
+    "demo/assets/lens.js",
+    "demo/assets/three.min.js",
+    "demo/index.html",
+    "demo/preview.jpg",
+    "demo/study.js",
+    "references/check-lens.cjs"
+  ]
+}

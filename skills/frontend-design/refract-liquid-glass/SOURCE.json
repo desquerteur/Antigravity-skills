@@ -1,0 +1,19 @@
+{
+  "repository": "MengTo/Skills",
+  "commit": "d5463ad2357e3e1c1480cc00e5b8fe49628a253c",
+  "path": "agent-skills/ui/refract-liquid-glass/SKILL.md",
+  "url": "https://github.com/MengTo/Skills/tree/d5463ad2357e3e1c1480cc00e5b8fe49628a253c/agent-skills/ui/refract-liquid-glass",
+  "license": "MIT",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "d36f0d4de33694baf4bf9d1458d990a143b70ccf7b3d687886822ba2ff29a135",
+  "changes": [
+    "Markdown files only; scripts and binary assets omitted per library rule",
+    "Added license: MIT to frontmatter"
+  ],
+  "omitted_files": [
+    "demo/index.html",
+    "demo/preview.jpg"
+  ]
+}

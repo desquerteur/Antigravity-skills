@@ -1,13 +1,13 @@
 {
   "repository": "MengTo/Skills",
-  "commit": "3ec2dc0857d36e45d032d10063f62f2c773329a3",
+  "commit": "d5463ad2357e3e1c1480cc00e5b8fe49628a253c",
   "path": "agent-skills/video-editing/making-of-film/SKILL.md",
-  "url": "https://github.com/MengTo/Skills/tree/3ec2dc0857d36e45d032d10063f62f2c773329a3/agent-skills/video-editing/making-of-film",
+  "url": "https://github.com/MengTo/Skills/tree/d5463ad2357e3e1c1480cc00e5b8fe49628a253c/agent-skills/video-editing/making-of-film",
   "license": "MIT",
   "license_files": [
     "LICENSE.txt"
   ],
-  "source_sha256": "ffc81b502e63d73bfaf463d2406180683e8a759e5f2dac7742eda169d343f749",
+  "source_sha256": "5b319b12818d9f6ab38449a8e205be8644ca49fd0f3c26e7cc41acd076c84da4",
   "changes": [
     "Markdown files only; scripts and binary assets omitted per library rule",
     "Added license: MIT to frontmatter"

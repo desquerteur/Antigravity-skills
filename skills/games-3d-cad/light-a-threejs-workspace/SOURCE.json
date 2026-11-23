@@ -1,0 +1,21 @@
+{
+  "repository": "MengTo/Skills",
+  "commit": "d5463ad2357e3e1c1480cc00e5b8fe49628a253c",
+  "path": "agent-skills/3d/light-a-threejs-workspace/SKILL.md",
+  "url": "https://github.com/MengTo/Skills/tree/d5463ad2357e3e1c1480cc00e5b8fe49628a253c/agent-skills/3d/light-a-threejs-workspace",
+  "license": "MIT",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "4d1858b8c7f8f88a474f5807248f57258510fee32b9e1c58e5258d15b43cf616",
+  "changes": [
+    "Markdown files only; scripts and binary assets omitted per library rule",
+    "Added license: MIT to frontmatter"
+  ],
+  "omitted_files": [
+    "demo/assets/THREE-LICENSE.txt",
+    "demo/assets/three.min.js",
+    "demo/index.html",
+    "demo/preview.jpg"
+  ]
+}

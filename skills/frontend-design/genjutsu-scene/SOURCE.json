@@ -1,13 +1,13 @@
 {
   "repository": "MengTo/Skills",
-  "commit": "3ec2dc0857d36e45d032d10063f62f2c773329a3",
+  "commit": "d5463ad2357e3e1c1480cc00e5b8fe49628a253c",
   "path": "agent-skills/video-editing/genjutsu-scene/SKILL.md",
-  "url": "https://github.com/MengTo/Skills/tree/3ec2dc0857d36e45d032d10063f62f2c773329a3/agent-skills/video-editing/genjutsu-scene",
+  "url": "https://github.com/MengTo/Skills/tree/d5463ad2357e3e1c1480cc00e5b8fe49628a253c/agent-skills/video-editing/genjutsu-scene",
   "license": "MIT",
   "license_files": [
     "LICENSE.txt"
   ],
-  "source_sha256": "cab82577cbfff493365fa6614cc5b5485470bb1c15a30e6ae26a457fb30304f5",
+  "source_sha256": "f7d08aff41c234e56b16c80fc35e9aa7c85f5c65f575766414d36b966e62d2c0",
   "changes": [
     "Markdown files only; scripts and binary assets omitted per library rule",
     "Added license: MIT to frontmatter"

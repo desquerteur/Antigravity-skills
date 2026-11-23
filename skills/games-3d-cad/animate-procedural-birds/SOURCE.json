@@ -1,0 +1,25 @@
+{
+  "repository": "MengTo/Skills",
+  "commit": "d5463ad2357e3e1c1480cc00e5b8fe49628a253c",
+  "path": "agent-skills/3d/animate-procedural-birds/SKILL.md",
+  "url": "https://github.com/MengTo/Skills/tree/d5463ad2357e3e1c1480cc00e5b8fe49628a253c/agent-skills/3d/animate-procedural-birds",
+  "license": "MIT",
+  "license_files": [
+    "LICENSE.txt"
+  ],
+  "source_sha256": "0754217aed0bc3c5372aeef35559d33315c32a9aa011f925d8188212fda838a1",
+  "changes": [
+    "Markdown files only; scripts and binary assets omitted per library rule",
+    "Added license: MIT to frontmatter"
+  ],
+  "omitted_files": [
+    "agents/openai.yaml",
+    "demo/assets/THREE-LICENSE.txt",
+    "demo/assets/three.min.js",
+    "demo/assets/wagtail.js",
+    "demo/index.html",
+    "demo/preview.jpg",
+    "demo/study.js",
+    "references/check-perch.cjs"
+  ]
+}
